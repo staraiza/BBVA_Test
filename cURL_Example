@@ -1,0 +1,1 @@
+curl -X GET "https://apis.bbvabancomer.com/locations_sbx/v1/atms?postcode=90800" -o /<path>/body.json -H "Content-Type: application/json" -H "Authorization: jwt <Access Token>" -v
